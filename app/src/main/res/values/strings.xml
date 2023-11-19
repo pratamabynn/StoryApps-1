@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Byy_AppStory</string>
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Selamat Datang di Yourbynn Story. Jika ada Pertanyaan tentang aplikasi silahkan hubungi contact admin ya!</string>
+    <string name="title_welcome_page">Selamat Datang!</string>
+    <string name="title_signup_page">Silahkan Isi Data Dirimu</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Silahkan Masukan Data Diri Anda</string>
+    <string name="title_login_page">Selamat Datang!</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Datang!</string>
+    <string name="greeting">Halo %1$s,</string>
+    <string name="logout">Keluar</string>
+    <string name="name_required">Masukan Nama</string>
+    <string name="input_email">Masukan Email</string>
+    <string name="invalid_email">Email Tidak Valid</string>
+    <string name="input_pass">Masukan Password</string>
+    <string name="pass_length">Password Tidak boleh kurang dari 8</string>
+    <string name="not_valid_data">Data Tidak Valid</string>
+    <string name="submit">Submit</string>
+    <string name="title">Your Title</string>
+    <string name="descriptions">Your Decriptions</string>
+    <string name="detail">Stories Details</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="upload">Upload</string>
+    <string name="empty_image_warning">Silahkan Upload Gambar terlebih dahulu</string>
+    <string name="add_story">Add your story</string>
+</resources>
